@@ -19,5 +19,10 @@ class stairCaseProblem{
         dp[1]=1;
         int answer=obj.solve(n);
         System.out.print("The number of distinct ways in which one can travel is:"+answer);
+        /*
+        * for(int i=2;i<=n;i++)
+        * dp[i]=dp[n-1]+dp[n-2];
+        */
+        //this is the recursive method
     }
 }
