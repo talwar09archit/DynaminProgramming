@@ -1,0 +1,3 @@
+in the coin problem we are given an array of total denominations that are availbale or different values of
+coins that are available to use here the problem is that we are given a value and are required to find the
+minimum possible number of coins to make solve that problem where we need to give the minimum number of coins required

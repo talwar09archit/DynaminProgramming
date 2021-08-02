@@ -1,0 +1,10 @@
+this is the discription of the stair case problem
+
+in stair case problem in this case you are given N number of steps to climb and you can do that by climbing only
+one step at a time or two step at a time so now the problem is to find the total number of distinct possible ways
+in which a person can climb the stairs
+
+in recurve method first if is to check wether there is a solution from dynaic programing already or not
+then second else usees recursion it is top to bottom approch
+
+in if else same comcept bu bottom to top approch is uses to check
